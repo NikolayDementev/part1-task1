@@ -1,0 +1,7 @@
+.gitignore
+tmp/
+*_old
+*_backup
+img/Thumbs.db
+Site For Import/.DS_Store
+img/.DS_Store
